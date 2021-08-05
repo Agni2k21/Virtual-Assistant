@@ -1,6 +1,5 @@
 # Virtual-Assistant
-##Creating a virtual assistant like Alexa
-
+Creating a very own virtual assistant like Alexa
 
 
 ## Installation
